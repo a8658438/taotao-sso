@@ -1,0 +1,4 @@
+com\taotao\sso\constant\SsoConstant.class
+com\taotao\sso\controller\UserController.class
+com\taotao\sso\service\UserService.class
+com\taotao\sso\service\UserServiceImpl.class
